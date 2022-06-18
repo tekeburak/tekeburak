@@ -1,21 +1,10 @@
 <h1 align="center">Hi 👋, I'm Burak Teke</h1>
-<h3 align="center">Deep learning researcher from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tekeburak&label=Profile%20views&color=0e75b6&style=flat" alt="tekeburak" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tekeburak" alt="tekeburak" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/burak__teke" target="blank"><img src="https://img.shields.io/twitter/follow/burak__teke?logo=twitter&style=for-the-badge" alt="burak__teke" /></a> </p>
-
-- 🔭 I’m currently working on [pytracking](https://github.com/visionml/pytracking)
-
-- 🌱 I’m currently learning **TorchScript, Docker and NVIDIA Triton Inference Server**
-
-- 👯 I’m looking to collaborate on [Deep Learning Nanodegree](https://github.com/udacity/deep-learning-v2-pytorch)
-
-- 🤝 I’m looking for help with [SAN](https://github.com/daitao/SAN)
-
-- 👨‍💻 All of my projects are available at [https://burakteke.com/](https://burakteke.com/)
 
 - 💬 Ask me about **Computer Vision and Deep Learning**
 
