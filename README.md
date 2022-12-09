@@ -4,10 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/burak__teke" target="blank"><img src="https://img.shields.io/twitter/follow/burak__teke?logo=twitter&style=for-the-badge" alt="burak__teke" /></a> </p>
 
-- 💬 Ask me about **Computer Vision and Deep Learning**
-
-- 📫 How to reach me **tr.burakteke@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/burak__teke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="burak__teke" height="30" width="40" /></a>
