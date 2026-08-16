@@ -44,9 +44,14 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python,bash,pytorch,tensorflow" alt="Core stack" /></a>
-  <br/>
-  <a href="https://github.com/tekeburak?tab=repositories" target="_blank"><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux" alt="Tools" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://pytorch.org" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
 </div>
 
 ### 📊 GitHub Stats
