@@ -23,9 +23,7 @@
 
 ### 🙋‍♂️ About Me
 
-<table>
-  <tr>
-    <td width="55%" valign="center">
+<div align="center">
 
 🔭 Working on **Computer Vision & LLMs** at [Ahenk AI](https://ahenk.ai)
 
@@ -35,16 +33,13 @@
 
 💼 Open to interesting opportunities
 
-🌍 Based in `localhost`
+🇨🇦 Based in **Halifax, NS**
 
-    </td>
-    <td width="45%" valign="center">
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tekeburak&theme=tokyonight" alt="Profile details" />
-
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tekeburak&theme=tokyonight" alt="Profile details" />
+</div>
 
 ### 🛠️ Tech Stack
 
