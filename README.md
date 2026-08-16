@@ -31,7 +31,7 @@
 
 💬 Ask me about computer vision, LLMs and Python
 
-💼 Open to interesting opportunities
+💼 Open to **AI research roles** at frontier labs
 
 🇨🇦 Based in **Halifax, NS**
 
