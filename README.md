@@ -27,7 +27,7 @@
 
 🔭 Working on **Computer Vision & LLMs** at [Ahenk AI](https://ahenk.ai)
 
-🌱 Exploring agentic AI workflows & MLOps
+🤖 Building agentic AI workflows & MLOps pipelines
 
 💬 Ask me about computer vision, LLMs and Python
 
